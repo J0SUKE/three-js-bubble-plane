@@ -1,0 +1,24 @@
+*,*::before,*::after
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+body,html
+{
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.container,canvas
+{
+    width: 100%;
+    height: 100%;
+}

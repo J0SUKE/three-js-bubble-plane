@@ -1,0 +1,11 @@
+Model Information:
+* title:	Harry Potter Book
+* source:	https://sketchfab.com/3d-models/harry-potter-book-cf793d98e4714828bdcfd60a5a9b3326
+* author:	voyager (https://sketchfab.com/Voyager_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Harry Potter Book" (https://sketchfab.com/3d-models/harry-potter-book-cf793d98e4714828bdcfd60a5a9b3326) by voyager (https://sketchfab.com/Voyager_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
